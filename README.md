@@ -19,7 +19,7 @@ Automaticly approving RDWorks dialogs when uploading a file to the laser cut mac
 	right click on -> C:\rdworks_hack\output\rdworks_hack\rdworks_hack.exe -> Properties -> run_as_administrator
 
 #### auto start program
-	create a shortcut of rdworks_run.vbs in %AppData%\Microsoft\Windows\Start Menu\Programs\Startup
+	create a shortcut of rdworks_hack.vbs in %AppData%\Microsoft\Windows\Start Menu\Programs\Startup
 
 ## Enjoy!
 A.E.TECH
